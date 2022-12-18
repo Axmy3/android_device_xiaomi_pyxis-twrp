@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_pyxis-user
-add_lunch_combo omni_pyxis-userdebug
-add_lunch_combo omni_pyxis-eng
+COMMON_LUNCH_CHOICES omni_pyxis-user
+COMMON_LUNCH_CHOICES omni_pyxis-userdebug
+COMMON_LUNCH_CHOICES omni_pyxis-eng

@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_pyxis.mk
+    $(LOCAL_DIR)/twrp_pyxis.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_pyxis-user \
-    omni_pyxis-userdebug \
-    omni_pyxis-eng
+    twrp_pyxis-user \
+    twrp_pyxis-userdebug \
+    twrp_pyxis-eng
